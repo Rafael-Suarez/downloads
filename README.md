@@ -13,4 +13,4 @@ The installers are not code-signed, so Windows SmartScreen warns the first time 
 
 Each release is tagged on a commit of its own, made when it's published, so GitHub lists the newest first.
 
-Latest Anthology: 1.7.41 for Windows, 1.7.184 for Android.
+Latest Anthology: 1.7.42 for Windows, 1.7.201 for Android.
